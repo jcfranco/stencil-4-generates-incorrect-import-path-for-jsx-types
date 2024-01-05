@@ -31,7 +31,7 @@
     "prettier": "prettier --write \"./src/**/*.{ts,tsx,js,jsx}|*.{ts,tsx,js,jsx}\""
   },
   "devDependencies": {
-    "@stencil/core": "2.22.3",
+    "@stencil/core": "4.9.0",
     "@stencil/react-output-target": "0.5.3",
     "@types/jest": "27.0.3",
     "@types/puppeteer": "2.0.1",
